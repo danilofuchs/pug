@@ -15,7 +15,8 @@ git clone https://github.com/danilofuchs/pug ~/pug
 Add this line to your `.zshrc` or `.bash_profile`:
 
 ```bash
-source "$HOME/pug/pug.sh"
+export PUG_PATH="$HOME/pug"
+. "$PUG_PATH/pug.sh"
 ```
 
 ### Generating ASCII image
