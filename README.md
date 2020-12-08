@@ -24,5 +24,5 @@ export PUG_PATH="$HOME/pug"
 I used [tzvetkoff/im2a](https://github.com/tzvetkoff/im2a):
 
 ```
-im2a --width=80 --pixel pug.png > pug.txt
+im2a --width=80 --pixel --transparent pug.png > pug.txt
 ```
