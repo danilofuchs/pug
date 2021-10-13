@@ -4,7 +4,7 @@
 
 Ever written `flutter pug get` instead of `flutter pub get`?
 
-Use this to start do get what you really need.
+Use this to get what you really need.
 
 ### Installation
 
